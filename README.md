@@ -22,3 +22,5 @@ Challenge 8 - Back to Unit - Created and tested release_bike method
 Challenge 9 - Building a bike - We create a lib/spec file for bike and created working? method to pass test.
 
 Challenge 10 - Making Docking Stations Release Bikes
+
+Challenge 11 - Using Instance Variables - Using an attribute of puit bike instance 
